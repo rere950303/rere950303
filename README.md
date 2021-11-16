@@ -23,6 +23,6 @@ I'm interested in building DB and designing architecture.
 
 ### Contact 💌
 <a target="_blank" href="https://rere950303.github.io"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat&logo=Jekyll&logoColor=white"/></a>&nbsp;
-<a target="_blank" href="https://rere950303.github.io"><img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white"/></a>&nbsp;
+<a target="_blank" href="mailto:yhwjjang1995@naver.com"><img src="https://img.shields.io/badge/Email-03C75A?style=flat&logo=Naver&logoColor=white"/></a>&nbsp;
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=rere950303&show_icons=true&theme=radical)
