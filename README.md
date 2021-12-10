@@ -19,7 +19,6 @@ I'm interested in building DB and designing architecture.
 #### CI & CD
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Travis CI-3EAAAF?style=flat&logo=Travis CI&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> &nbsp;
 
 ### Contact 💌
 <a target="_blank" href="https://rere950303.github.io"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat&logo=Jekyll&logoColor=white"/></a>&nbsp;
