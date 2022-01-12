@@ -2,16 +2,15 @@
 I'm a backend developer. </br>
 I'm interested in building DB and designing architecture.
 
-## Tech Stack :books:
-### Platform
+## Platform
 <img src="https://img.shields.io/badge/macOS-777777?style=flat&logo=Apple&logoColor=white"/>
 
-### Language
+## Language
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> &nbsp;
 
-### Tech Stack
+## Tech Stack :books:
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/> &nbsp;
