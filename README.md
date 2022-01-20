@@ -19,7 +19,8 @@ I'm interested in building DB and designing architecture.
 
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Travis CI-3EAAAF?style=flat&logo=Travis CI&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> &nbsp;
 
 
 ## Contact 💌
