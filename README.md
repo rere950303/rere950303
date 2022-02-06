@@ -2,6 +2,7 @@
 I'm a backend developer. </br>
 I'm interested in building DB and designing architecture.
 
+
 ## Platform
 <img src="https://img.shields.io/badge/macOS-777777?style=flat&logo=Apple&logoColor=white"/>
 
