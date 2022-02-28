@@ -21,7 +21,7 @@ I'm interested in building DB and designing architecture.
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat&logo=Jenkins&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Jenkins&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=Kubernetes&logoColor=white"/> &nbsp;
 
 ## Contact 💌
 <a target="_blank" href="https://rere950303.github.io"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat&logo=Jekyll&logoColor=white"/></a>&nbsp;
