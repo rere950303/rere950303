@@ -2,7 +2,7 @@
 I'm a backend developer. </br>
 I'm interested in building DB and designing architecture.
 
-## Tech Stack :books:
+## Tech Stack 🛠
 ### Platform
 <img src="https://img.shields.io/badge/macOS-777777?style=flat&logo=Apple&logoColor=white"/>
 
@@ -28,6 +28,23 @@ I'm interested in building DB and designing architecture.
 
 ### Cloud
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> &nbsp;
+
+## Project :handshake:
+- [project-movierank-server](https://github.com/rere950303/project-movierank-server)
+- [project-sharing-server](https://github.com/rere950303/project-sharing-server)
+- [project-DVDrental](https://github.com/rere950303/project-DVDrental)
+- [project-phonebook](https://github.com/rere950303/project-phonebook)
+- [project-rockscissorspaper](https://github.com/rere950303/project-rockscissorspaper)
+
+## Study :books:
+- [study-algorithm](https://github.com/rere950303/study-algorithm)
+- [study-datastructure](https://github.com/rere950303/study-datastructure)
+- [study-springcore-basic](https://github.com/rere950303/study-springcore-basic)
+- [study-springmvc-part1](https://github.com/rere950303/study-springmvc-part1)
+- [study-springmvc-part2](https://github.com/rere950303/study-springmvc-part2)
+- [study-springsecurity](https://github.com/rere950303/study-springsecurity)
+- [study-JPA](https://github.com/rere950303/study-JPA)
+- [study-querydsl](https://github.com/rere950303/study-querydsl)
 
 ## Contact 💌
 <a target="_blank" href="https://rere950303.github.io"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat&logo=Jekyll&logoColor=white"/></a>&nbsp;
