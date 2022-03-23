@@ -20,6 +20,7 @@ I'm interested in building DB and designing architecture.
 
 ### DB
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=PostgreSQL&logoColor=white"/> &nbsp;
 
 ### CI & CD
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=Docker&logoColor=white"/> &nbsp;
