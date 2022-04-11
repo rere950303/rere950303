@@ -10,6 +10,7 @@ I'm interested in building DB and designing architecture.
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat&logo=C&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/C++-00599C?style=flat&logo=C%2B%2B&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Java-007396?style=flat&logo=Java&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Python-3776AB?style=flat&logo=Python&logoColor=white"/> &nbsp;
 
 ### Framework
 <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat&logo=Spring&logoColor=white"/> &nbsp;
