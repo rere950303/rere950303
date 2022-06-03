@@ -44,6 +44,7 @@ I'm interested in building DB and designing architecture.
 - [study-datascience](https://github.com/rere950303/study-datascience)
 - [study-database](https://github.com/rere950303/study-database)
 - [study-operatingsystem](https://github.com/rere950303/study-operatingsystem)
+- [study-logicdesign](https://github.com/rere950303/study-logicdesign)
 - [study-springrestdocs](https://github.com/rere950303/study-springrestdocs)
 - [study-springcore-basic](https://github.com/rere950303/study-springcore-basic)
 - [study-springmvc-part1](https://github.com/rere950303/study-springmvc-part1)
