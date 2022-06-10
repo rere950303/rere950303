@@ -46,12 +46,6 @@ I'm interested in building DB and designing architecture.
 - [study-operatingsystem](https://github.com/rere950303/study-operatingsystem)
 - [study-logicdesign](https://github.com/rere950303/study-logicdesign)
 - [study-springrestdocs](https://github.com/rere950303/study-springrestdocs)
-- [study-springcore-basic](https://github.com/rere950303/study-springcore-basic)
-- [study-springmvc-part1](https://github.com/rere950303/study-springmvc-part1)
-- [study-springmvc-part2](https://github.com/rere950303/study-springmvc-part2)
-- [study-springsecurity](https://github.com/rere950303/study-springsecurity)
-- [study-JPA](https://github.com/rere950303/study-JPA)
-- [study-querydsl](https://github.com/rere950303/study-querydsl)
 
 ## Contact 💌
 <a target="_blank" href="https://rere950303.github.io"><img src="https://img.shields.io/badge/Blog-CC0000?style=flat&logo=Jekyll&logoColor=white"/></a>&nbsp;
