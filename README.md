@@ -17,7 +17,7 @@ I'm interested in building DB and designing architecture.
 <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat&logo=Spring Boot&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Spring Security-6DB33F?style=flat&logo=Spring Security&logoColor=white"/> &nbsp;
 <img src="https://img.shields.io/badge/Spring Batch-6DB33F?style=flat&logo=Databricks&logoColor=white"/> &nbsp;
-<img src="https://img.shields.io/badge/Spring JPA-6DB33F?style=flat&logo=Databricks&logoColor=white"/> &nbsp;
+<img src="https://img.shields.io/badge/Spring Data JPA-6DB33F?style=flat&logo=Databricks&logoColor=white"/> &nbsp;
 
 ### DB
 <img src="https://img.shields.io/badge/MariaDB-003545?style=flat&logo=MariaDB&logoColor=white"/> &nbsp;
