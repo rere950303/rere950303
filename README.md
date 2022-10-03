@@ -50,6 +50,7 @@ I'm interested in building DB and designing architecture.
 - [study-datastructure](https://github.com/rere950303/study-datastructure)
 - [study-datascience](https://github.com/rere950303/study-datascience)
 - [study-database](https://github.com/rere950303/study-database)
+- [study-databasesystem](https://github.com/rere950303/study-databasesystem)
 - [study-operatingsystem](https://github.com/rere950303/study-operatingsystem)
 - [study-logicdesign](https://github.com/rere950303/study-logicdesign)
 - [study-imageprocessing](https://github.com/rere950303/study-imageprocessing)
