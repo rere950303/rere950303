@@ -38,7 +38,6 @@ I'm interested in building DB and designing architecture.
 <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=flat&logo=Amazon AWS&logoColor=white"/> &nbsp;
 
 ## Project :handshake:
-- [project-movierank-server](https://github.com/rere950303/project-movierank-server)
 - [project-sharing-server](https://github.com/rere950303/project-sharing-server)
 - [project-moodpic-server](https://github.com/depromeet/11th_5team/tree/docs/readme)
 - [project-DVDrental](https://github.com/rere950303/project-DVDrental)
