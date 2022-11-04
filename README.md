@@ -54,6 +54,7 @@ I'm interested in building DB and designing architecture.
 - [study-logicdesign](https://github.com/rere950303/study-logicdesign)
 - [study-imageprocessing](https://github.com/rere950303/study-imageprocessing)
 - [study-informationprotection](https://github.com/rere950303/study-informationprotection)
+- [study-cloudcomputing](https://github.com/rere950303/study-cloudcomputing)
 - [study-springrestdocs](https://github.com/rere950303/study-springrestdocs)
 - [study-librarydeploy](https://github.com/rere950303/study-librarydeploy)
 - [study-methodsecurity](https://github.com/rere950303/study-methodsecurity)
