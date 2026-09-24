@@ -27,7 +27,6 @@ operations, backup/restore, CDC, and the tooling around them.
 <img src="https://img.shields.io/badge/Spring%20WebFlux-6DB33F?style=flat&logo=spring&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kotlin%20Coroutines-7F52FF?style=flat&logo=kotlin&logoColor=white"/>
 <img src="https://img.shields.io/badge/FastAPI-009688?style=flat&logo=fastapi&logoColor=white"/>
-<img src="https://img.shields.io/badge/Uvicorn-2094F3?style=flat"/>
 
 ### Messaging & Coordination
 <img src="https://img.shields.io/badge/Apache%20Kafka-231F20?style=flat&logo=apachekafka&logoColor=white"/>
