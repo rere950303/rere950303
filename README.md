@@ -39,19 +39,13 @@ operations, backup/restore, CDC, and the tooling around them.
 
 ### Infra & Cloud
 <img src="https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white"/>
-<img src="https://img.shields.io/badge/Docker%20Compose-2496ED?style=flat&logo=docker&logoColor=white"/>
 <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat&logo=kubernetes&logoColor=white"/>
 <img src="https://img.shields.io/badge/AWS-232F3E?style=flat"/>
 
 ### AI / LLM
 <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
-<img src="https://img.shields.io/badge/LangServe-1C3C3C?style=flat&logo=langchain&logoColor=white"/>
 <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=flat&logo=langgraph&logoColor=white"/>
-<img src="https://img.shields.io/badge/Claude-D97757?style=flat&logo=claude&logoColor=white"/>
 <img src="https://img.shields.io/badge/Claude%20Code-D97757?style=flat&logo=claude&logoColor=white"/>
-
-### Tools
-<img src="https://img.shields.io/badge/macOS-000000?style=flat&logo=apple&logoColor=white"/>
 
 ## 🌱 Open Source Contributions
 
