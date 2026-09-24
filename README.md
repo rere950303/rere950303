@@ -3,8 +3,8 @@
 Backend engineer at **NAVER Cloud**, building [**NAVER WORKS AI Studio**](https://naver.worksmobile.com/products/aistudio/) —
 a RAG solution that answers questions grounded in an organization's own data (boards, messages, drive).
 
-- 🔀 Lead the **dynamic data pipelines** built on **Kafka** and **Kafka Connect** that ingest enterprise data into the RAG system
-- 🧭 Operate the **Milvus** vector database layer — backup/restore, CDC, and the tooling around them
+- 🔀 Lead the design of **dynamic data pipelines** built on **Kafka** and **Kafka Connect**
+- 🧭 Operate the **Milvus** vector database layer — backup/restore and the tooling around them
 
 - 🏢 Backend Engineer @ NAVER Cloud
 - 🎓 Korea University — B.S. Chemical & Biological Engineering / B.S. Computer Science and Engineering
@@ -15,7 +15,6 @@ a RAG solution that answers questions grounded in an organization's own data (bo
 ### Vector DB
 <img src="https://img.shields.io/badge/Milvus-00A1EA?style=flat&logo=milvus&logoColor=white"/>
 <img src="https://img.shields.io/badge/Milvus%20Backup%20%2F%20Restore-00A1EA?style=flat"/>
-<img src="https://img.shields.io/badge/Milvus%20CDC-00A1EA?style=flat"/>
 <img src="https://img.shields.io/badge/Birdwatcher-00A1EA?style=flat"/>
 <img src="https://img.shields.io/badge/Attu-00A1EA?style=flat"/>
 
