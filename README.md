@@ -1,7 +1,10 @@
 # Hi, I'm Hyungwook Yang 👋
 
-Backend engineer at **NAVER Cloud**, working on vector database infrastructure built around **Milvus** —
-operations, backup/restore, CDC, and the tooling around them.
+Backend engineer at **NAVER Cloud**, building [**NAVER WORKS AI Studio**](https://naver.worksmobile.com/products/aistudio/) —
+a RAG solution that answers questions grounded in an organization's own data (boards, messages, drive).
+
+- 🔀 Lead the **dynamic data pipelines** built on **Kafka** and **Kafka Connect** that ingest enterprise data into the RAG system
+- 🧭 Operate the **Milvus** vector database layer — backup/restore, CDC, and the tooling around them
 
 - 🏢 Backend Engineer @ NAVER Cloud
 - 🎓 Korea University — B.S. Chemical & Biological Engineering / B.S. Computer Science and Engineering
