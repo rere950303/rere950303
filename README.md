@@ -51,6 +51,7 @@ a RAG solution that answers questions grounded in an organization's own data (bo
 
 ## 🌱 Open Source Contributions
 
+- **zilliztech/knowhere** — [fix: fall back to brute force in HNSW AnnIterator at high filter ratios](https://github.com/zilliztech/knowhere/pull/1863)
 - **milvus-io/milvus** — [fix: make a ticket-less resume actually resume garbage collection](https://github.com/milvus-io/milvus/pull/53592)
 - **zilliztech/milvus-backup** — [fix: store the renewed ticket when renewing the collection GC lease](https://github.com/zilliztech/milvus-backup/pull/1227)
 - **zilliztech/milvus-backup** — [fix(log): correct file logging config](https://github.com/zilliztech/milvus-backup/pull/783)
